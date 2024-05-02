@@ -2,7 +2,7 @@
 ## About Me ^__^
 ____
 _ _ _
-#### I am from Pakistan. It's been 21 years since I have been here in America. I have studied from elementary to univerties here in America. I am a recent graduated from Maryville University of St. Louis in 2023.
+#### I am from Pakistan and I have been here for about 21 years. I have studied from elementary to college here in America. I am a recent graduate from Maryville University of St. Louis in 2023. Here are some of my goals:
 ___
 _ _ _
 ### _GOALS_
@@ -17,6 +17,8 @@ _ _ _
 
 -  If the course offers a certification or accreditation, aim to successfully complete the requirements to earn this credential.
 
+___
+___
 
 Web Link to Python Article that I thought was very interesting. 
 
