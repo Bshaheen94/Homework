@@ -1,8 +1,8 @@
 # Baby Aesha Shaheen 
-## This is my **Homework** repo
+## About Me ^__^
 ____
 _ _ _
-#### I am a recent graduated from Maryville University of St. Louis in 2023. 
+#### I am from Pakistan. It's been 21 years since I have been here in America. I have studied from elementary to univerties here in America. I am a recent graduated from Maryville University of St. Louis in 2023.
 ___
 _ _ _
 ### _GOALS_
@@ -18,6 +18,9 @@ _ _ _
 -  If the course offers a certification or accreditation, aim to successfully complete the requirements to earn this credential.
 
 
+Web Link to Python Article that I thought was very interesting. 
+
+https://realpython.com/documenting-python-code/
 
 
 
