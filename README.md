@@ -1,6 +1,5 @@
 # Baby Aesha Shaheen 
 ## About Me ^__^
-____
 _ _ _
 #### I am from Pakistan and I have been here for about 21 years. I have studied from elementary to college here in America. I am a recent graduate from Maryville University of St. Louis in 2023. Here are some of my goals:
 ___
@@ -19,10 +18,23 @@ _ _ _
 
 ___
 ___
+<br>
 
 Web Link to Python Article that I thought was very interesting. 
+<br>
 
-https://realpython.com/documenting-python-code/
+[Link to Article](https://realpython.com/documenting-python-code/)
+<br>
+<br>
+
+___
+
+<br>
+
+
+![DataAnalytic](https://searchengineland.com/wp-content/seloads/2014/08/analytics-data-ss-19201.jpg)
+
+
 
 
 
