@@ -1,7 +1,9 @@
 # Baby Aesha Shaheen 
 ## About Me ^__^
 _ _ _
-#### I am from Pakistan and I have been here for about 21 years. I have studied from elementary to college here in America. I am a recent graduate from Maryville University of St. Louis in 2023. Here are some of my goals:
+#### I am from Pakistan and I have been here for about 21 years. I am a recent graduate from Maryville University of St. Louis in 2023. I am passionate about leveraging data to drive strategic decision-making and optimize business processes, I want to specialize in database analytics and Python programming. With a strong foundation in data management and analysis, coupled with advanced skills in Python programming, I want to excel in transforming complex datasets into actionable insights. In addition to my technical skills, I am a collaborative team player with excellent communication and project management abilities. I enjoy working in dynamic environments where I can contribute my expertise to cross-functional teams and learn from diverse perspectives.
+
+Here are some of my goals:
 ___
 _ _ _
 ### _GOALS_
